@@ -118,8 +118,8 @@
                 year: 2021,
                 month: 6,
                 day: 20,
-                hours: 18,
-                minutes: 30,
+                hours: 24,
+                minutes: 0,
                 seconds: 0,
                 words: {
                     days: 'day',
